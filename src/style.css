@@ -1,0 +1,46 @@
+.gradient-bg {
+    animation: animatedgradient-dac6691e 3s ease infinite alternate;
+    background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    background-size: 300% 300%;
+}
+
+.gradient-text {
+    animation: animatedgradient-dac6691a 3s ease infinite alternate;
+    background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block; /* Ensure the gradient applies to the text only, not the entire container */
+  }
+  
+.hidden {
+    display:none;
+}
+
+.purple-bg {
+    background-color: #3f2a54;
+    color: #ffffff; 
+    box-shadow: 0 0 10px rgb(255, 255, 255); 
+}
+
+.less-purple-bg {
+    background-color: #342544;
+}
+
+@keyframes animatedgradient-dac6691e {
+    0% {
+        background-position: 0% 0%;
+    }
+    100% {
+        background-position: 100% 100%;
+    }
+}
+
+@keyframes animatedgradient-dac6691a {
+    0% {
+      background-position: 0% 0%;
+    }
+    100% {
+      background-position: 100% 100%;
+    }
+  }
