@@ -3,7 +3,7 @@
 
 <h2>Project's Demo</h2>
 
-https://github.com/joaovitortc/InkCraftPro/assets/144037699/c60e625f-0f96-453f-aa5f-d8a78979877f\
+https://github.com/joaovitortc/InkCraftPro/assets/144037699/c60e625f-0f96-453f-aa5f-d8a78979877f
 
 <p>Welcome to InkCraft PRO, an AI-powered tattoo generator crafted with passion and dedication by a computer programming student. This project serves as an exploration of integrating AI models into a creative endeavor, showcasing both technical prowess and artistic expression.</p>
 
